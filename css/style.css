@@ -1,0 +1,87 @@
+
+
+.dboxs1 {
+    height: 300px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.dboxs2 {
+    height: 300px;
+    border: 1px solid blue;
+    background-color: white;
+}
+
+.dboxs3 {
+    height: 300px;
+    border:1px solid green;
+    background-color: white;
+}
+
+
+
+.dbox2 {
+    height: 160px;
+    width: 900px;
+    background-color: white;
+}
+
+.dbox3 {
+    height: 200px;
+    border: 1px solid red;
+    background-color: white;
+}
+
+.dbox4 {
+    height: 300px;
+    width:800px;
+    border: 1px solid red;
+    background-color: white;
+}
+
+.con1 {
+    border:1px solid red;
+    height:200px;
+    width:900px;
+    background-color:white;
+}
+
+.con2 {
+    border: 1px solid red;
+    height: 160px;
+    width: 900px;
+    background-color: white;
+}
+
+.con3 {
+    border: 1px solid red;
+    height: 200px;
+    width: 900px;
+    background-color: white;
+}
+
+.con4 {
+    border: 1px solid red;
+    height: 300px;
+    width: 900px;
+    background-color: white;
+}
+
+.cflu1 {
+
+    height: 50px;
+    background-color:white;
+}
+
+.cflu2 {
+    height:30px;
+    background-color: white;
+}
+
+.cflu3 {
+    height:10px;
+    background-color:white;
+}
+
+
+
